@@ -30,9 +30,9 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My GitHub Pages Website!</h1>
-        <p>This is a simple example of a website hosted on GitHub Pages.</p>
-        <p>You can customize this website by editing the HTML and CSS files in your repository.</p>
+        <h1>onn poda pillay!</h1>
+        <p>enokk noorukootam panikal und.</p>
+        <p>aybnnhhj.</p>
         <p>Feel free to add more pages, styles, and content to make it your own!</p>
     </div>
 </body>
